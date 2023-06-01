@@ -1,0 +1,175 @@
+@media(max-width:576px){
+	.nav-bar{
+		display:none;
+	}
+
+
+.col-1sm{
+	width:8.33%;
+	padding:25px 15px;    	
+}
+
+.col-2sm{
+	width:16.66%;
+	padding:25px 15px;    	
+}
+
+.col-3sm{
+	width:25%;
+	padding:25px 15px;    	
+}
+
+.col-4sm{
+	width:33.33%;
+	padding:25px 15px;    	
+}
+
+.col-5sm{
+	width:41.66%;
+	padding:25px 15px;    	
+}
+
+.col-6sm{
+	width:50%;
+	padding:25px 15px;    	
+}
+
+.col-7sm{
+	width:58.33%;
+	padding:25px 15px;    	
+}
+
+.col-8sm{
+	width:66.66%;
+	padding:25px 15px;    	
+}
+
+.col-9sm{
+	width:75%;
+	padding:25px 15px;    	
+}
+
+.col-10sm{
+	
+	width:s83.33%;
+	padding:25px 15px;    	
+}
+
+.col-11sm{
+	
+	width:91.66%;
+	padding:25px 15px;    	
+}
+
+.col-12sm{
+	
+	width:100%;
+	padding:25px 15px;    	
+}
+
+.order-1{
+	order:1
+}
+
+.order-2{
+	order:2
+}
+.nav{
+	display:flex;
+	justify-content:flex-end;
+    align-items:center;
+
+}
+.nav i{
+		padding-left:10px;
+		font-size:20px;
+		color:#5fcf80;
+}
+.nav .get-started-btn {
+	
+    background: #5fcf80;
+    color: #fff;
+    border-radius: 50px;
+    padding: 8px 25px;
+    white-space: nowrap;
+    transition: 0.3s;
+    font-size: 14px;
+    display: inline-block;
+}
+}
+
+@media(min-width:768px) and (max-width:992px){
+	ul li{
+		display:none;
+	}
+	
+.col-1md{
+	width:8.33%;
+	padding:25px 15px;    	
+}
+
+.col-2md{
+	width:16.66%;
+	padding:25px 15px;    	
+}
+
+.col-3md{
+	width:25%;
+	padding:25px 15px;    	
+}
+
+.col-4md{
+	width:33.33%;
+	padding:25px 15px;    	
+}
+
+.col-5md{
+	width:41.66%;
+	padding:25px 15px;    	
+}
+
+.col-6md{
+	width:50%;
+	padding:25px 15px;    	
+}
+
+.col-7md{
+	width:58.33%;
+	padding:25px 15px;    	
+}
+
+.col-8md{
+	width:66.66%;
+	padding:25px 15px;    	
+}
+
+.col-9md{
+	width:75%;
+	padding:25px 15px;    	
+}
+
+.col-10md{
+	
+	width:s83.33%;
+	padding:25px 15px;    	
+}
+
+.col-11md{
+	
+	width:91.66%;
+	padding:25px 15px;    	
+}
+
+.col-12md{
+	
+	width:100%;
+	padding:25px 15px;    	
+}
+.order-1{
+	order:1
+}
+
+.order-2{
+	order:2
+}
+}
